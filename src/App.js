@@ -8,8 +8,8 @@ class App extends Component {
     return(
       <div className='App'>
         <header className='App-header'>
-          <img src={logo} className='App-logo' alt='Neighborhood Map' />
-          <h1 className='App-title'>Welcome to React</h1>
+          {/* <img src={logo} className='App-logo' alt='Neighborhood Map' /> */}
+          <h1 className='App-title'>Willkommen in der Nachbarschaft</h1>
         </header>
         <Map />
       </div>
