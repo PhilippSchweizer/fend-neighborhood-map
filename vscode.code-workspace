@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.reportStyleChecksAsWarnings": false,
+		"typescript.validate.enable": false,
+		"typescript.format.enable": false
+	}
+}
